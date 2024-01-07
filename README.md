@@ -1,9 +1,10 @@
-
 <p align="center">
   <img src="https://github.com/hleihzue/LaymyoChin-Dictionary/assets/155907427/48fba0ba-1db7-4de3-bf59-668d421a50f3" alt="laymyoChin Dictionary" width="100">
 </p>
 
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=hleihzue.LaymyoChin-Dictionary&left_color=red&right_color=green&left_text=HelloVisitors)
 [![Latest release](https://badgen.net/github/release/LaymyoChin/test-now)](https://github.com/LaymyoChin/test-now/releases)
 [![Github all releases](https://img.shields.io/github/downloads/LaymyoChin/test-now/total.svg)](https://GitHub.com/LaymyoChin/test-now/releases/)
 
