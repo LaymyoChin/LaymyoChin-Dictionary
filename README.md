@@ -5,7 +5,6 @@
 
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=hleihzue&label=Visitors&color=ffff00&style=flat" alt="hleihzue" /> </p> 
-
 [![Github All Releases](https://img.shields.io/github/downloads/<hleihzue>/<LaymyoChin-Dictionary>/total.svg)]() [![GitHub release downloads](https://img.shields.io/github/downloads/hleihzue/LaymyoChin-Dictionary/total.svg)](https://GitHub.com/hleihzue/LaymyoChin-Dictionary/releases/)[![GitHub release](https://img.shields.io/github/release/hleihzue/LaymyoChin-Dictionary.svg)](https://github.com/hleihzue/LaymyoChin-Dictionary/releases)[![Repository Size](https://img.shields.io/github/repo-size/hleihzue/LaymyoChin-Dictionary.svg)](https://github.com/hleihzue/LaymyoChin-Dictionary) [![say thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/hleihzue)
 
 ## laymyoChin Dictionary
