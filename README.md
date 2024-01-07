@@ -4,8 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hleihzue&label=Visitors&color=ffff00&style=flat" alt="hleihzue" /> </p>
-[![Latest release](https://badgen.net/github/release/LaymyoChin/test-now)](https://github.com/LaymyoChin/test-now/releases)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hleihzue&label=Visitors&color=ffff00&style=flat" alt="hleihzue" /> </p>[![Latest release](https://badgen.net/github/release/LaymyoChin/test-now)](https://github.com/LaymyoChin/test-now/releases)
 [![Github all releases](https://img.shields.io/github/downloads/LaymyoChin/test-now/total.svg)](https://GitHub.com/LaymyoChin/test-now/releases/)
 
 ## laymyoChin Dictionary
