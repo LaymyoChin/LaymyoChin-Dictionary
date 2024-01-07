@@ -11,7 +11,6 @@
 **Welcome to laymyo literature learners!** laymyoChin Dictionary means the traditional, traditional  literature  culture  It is a test app produced for the purpose of preserving traditions.
 
 ## Be a part of the family
-
  In order to improve laymyoChin Dictionary, literature,  Those who are interested in traditional traditions are invited to participate.  Your name and pictures will be listed under "Contributors" in the application.
 
 [Click here](https://forms.gle/LPEM9dKWJh24oMxTA) to select the area you want to participate in.  We will be in touch.  If not, [take a look at this](https://fb.watch/ppV3pYooP2/?mibextid=Nif5oz).
@@ -26,9 +25,9 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
  * Download the app from [Play Store](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary).
  * Download all from [Uptodown Store](https://yet-mm-dictionary.en.uptodown.com/android/download).
 
+
 ## When we started and how many we have finished
  We have planned more for the history at the end of 2019 and informed the public that it will be released on September 2nd, 2021.  It was first released on Uptodown on February 14, 2022, and was launched on the Play Store on April 4.
-
 
  If there are more people who want to participate, we will finish faster.  You join us.  The following outlines the completed site components.
 
