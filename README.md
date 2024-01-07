@@ -4,8 +4,10 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hleihzue&label=Visitors&color=ffff00&style=flat" alt="hleihzue" /> </p>[![Latest release](https://badgen.net/github/release/LaymyoChin/test-now)](https://github.com/LaymyoChin/test-now/releases)
-[![Github all releases](https://img.shields.io/github/downloads/LaymyoChin/test-now/total.svg)](https://GitHub.com/LaymyoChin/test-now/releases/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hleihzue&label=Visitors&color=ffff00&style=flat" alt="hleihzue" /> </p>
+[![GitHub release](https://img.shields.io/github/release/hleihzue/LaymyoChin-Dictionary.svg)](https://github.com/hleihzue/LaymyoChin-Dictionary/releases)
+
+[![GitHub release downloads](https://img.shields.io/github/downloads/hleihzue/LaymyoChin-Dictionary/total.svg)](https://GitHub.com/hleihzue/LaymyoChin-Dictionary/releases/)
 
 ## laymyoChin Dictionary
 **Welcome to laymyo literature learners!** laymyoChin Dictionary means the traditional, traditional  literature  culture  It is a test app produced for the purpose of preserving traditions.
