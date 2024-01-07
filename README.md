@@ -5,7 +5,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hleihzue&label=Visitors&color=ffff00&style=flat" alt="hleihzue" /> </p> 
-![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)
+[![GitHub Repository Size](https://img.shields.io/github/repo-size/hleihzue/LaymyoChin%20Dictionary)](https://github.com/hleihzue/LaymyoChin%20Dictionary)
+
 [![Repository Size](https://img.shields.io/github/repo-size/hleihzue/LaymyoChin-Dictionary.svg)](https://github.com/hleihzue/LaymyoChin-Dictionary)
  [![say thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/hleihzue)
 
