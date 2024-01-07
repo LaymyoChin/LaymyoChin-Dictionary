@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hleihzue&label=Visitors&color=ffff00&style=flat" alt="hleihzue" /> </p> 
 
-[![Github All Releases](https://img.shields.io/github/downloads/<hleihzue>/<LaymyoChin-Dictionary>/total.svg)]() [![say thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/hleihzue)
+[![Github All Releases](https://img.shields.io/github/downloads/<hleihzue>/<LaymyoChin-Dictionary>/total.svg)]() [![say thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/hleihzue)[![GitHub release downloads](https://img.shields.io/github/downloads/hleihzue/LaymyoChin-Dictionary/total.svg)](https://GitHub.com/hleihzue/LaymyoChin-Dictionary/releases/)
 
 ## laymyoChin Dictionary
 **Welcome to laymyo literature learners!** laymyoChin Dictionary means the traditional, traditional  literature  culture  It is a test app produced for the purpose of preserving traditions.
