@@ -35,13 +35,14 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
 
  If there are more people who want to participate, we will finish faster.  You join us.  The following outlines the completed site components.
 
- > History <span style="color: blue;">20%</span>
+ > History 20%
 
-> Storytelling <span style="color: blue;">0%</span>
+ > Storytelling 0%
 
-> Proverbs <span style="color: blue;">10%</span>
+ > Proverbs 10%
 
-> Conversations <span style="color: blue;">20%</span>
+ > Conversations 20%
+
 
 > [!NOTE]
 > If you want to join as the contributor, we will make better and faster.
