@@ -51,11 +51,14 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
 
 
 ## Included the features
-*the language of the laymyoChin (Yet & Hang) English  Search for words in Burmese language.
-Read and study about history and culture.
-+story, short stories,  Studying and reading historical articles that develop traditions.
--Read the old sayings of laymyoChin region.
-*A friendly place for language learners, laymyoChin nature videos, The songs are also here to watch and enjoy.
+* The language of the laymyoChin (Yet & Hang)
+  * English Search for words in Burmese language.
+  * Read and study about history and culture.
+    + Story, short stories, Studying and reading historical articles that develop traditions.
+    - Read the old sayings of laymyoChin region.
+* A friendly place for language learners
+  * laymyoChin nature videos
+  * The songs are also here to watch and enjoy.
 
 
 <h3 align="left">Languages and Tools:</h3>
