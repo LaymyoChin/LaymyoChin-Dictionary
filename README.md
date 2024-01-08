@@ -35,17 +35,10 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
 
  If there are more people who want to participate, we will finish faster.  You join us.  The following outlines the completed site components.
 
- > Dictionary 60%
-
- > History 20%
-
- > Storytelling 0%
-
- > Proverbs 10%
-
- > Conversations 20%
-
- > Cultural insight videos 50~50%
+ >> History <span style="color: blue;">20%</span>
+> Storytelling <span style="color: blue;">0%</span>
+> Proverbs <span style="color: blue;">10%</span>
+> Conversations <span style="color: blue;">20%</span>
 
 > [!NOTE]
 > If you want to join as the contributor, we will make better and faster.
