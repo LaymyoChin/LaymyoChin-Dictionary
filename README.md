@@ -56,7 +56,6 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
    * English language
    * Burmese language
       + Searched highlight words only supported     **laymyoChin**.
-      + 
 * **Read our History**
   * Read the birth of a tribe,
   * Find our History ,culture and customs.
