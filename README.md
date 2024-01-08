@@ -35,13 +35,12 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
 
  If there are more people who want to participate, we will finish faster.  You join us.  The following outlines the completed site components.
 
- > History 20%
-
- > Storytelling 0%
-
- > Proverbs 10%
-
- > Conversations 20%
+ | A               | B     | C  |
+| --------------- | ----- | -- |
+| History         | 20%   |    |
+| Storytelling    | 0%    |    |
+| Proverbs        | 10%   |    |
+| Conversations   | 20%   |    |
 
 
 > [!NOTE]
