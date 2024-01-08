@@ -12,6 +12,7 @@
 ## laymyoChin Dictionary
 **Welcome to laymyo literature learners!** laymyoChin Dictionary means the traditional, traditional  literature  culture  It is a test app produced for the purpose of preserving traditions.
 
+
 ## Be a part of the family
  In order to improve laymyoChin Dictionary, literature,  Those who are interested in traditional traditions are invited to participate.  Your name and pictures will be listed under "Contributors" in the application.
 
@@ -26,6 +27,7 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
  * Contact with [Email]( laymyochin.dictionary@gmail.com).
  * Download the app from [Play Store](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary).
  * Download all from [Uptodown Store](https://yet-mm-dictionary.en.uptodown.com/android/download).
+
 
 
 ## When we started and how many we have finished
@@ -47,6 +49,7 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
 
 > [!NOTE]
 > If you want to join as the contributor, we will make better and faster.
+
 
 
 
