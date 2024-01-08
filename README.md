@@ -51,22 +51,21 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
 
 
 ## Included the features
-* The language supported
+* **The language supported**
    * laymyoChin (Yet & Hang)
    * English language
    * Burmese language
-      + Searched highlight words only supported     **laymyoChin**.
+      + Searched highlight words only supported     * *laymyoChin* *.
       + 
 * Read our History
-   * Read the birth of a tribe,
-   * Find our History ,culture and customs.
-
-* Speak the dialect
+  * Read the birth of a tribe,
+  * Find our History ,culture and customs.
+* **Speak the dialect**
     * You can learn our laymyo conversations
         + Yet , Hang and Soung
     * Study our old saying
-
-*  Stories and Videos
+        +Traditional old saying
+*  **Stories and Videos**
     *  You can know our traditional stories
         + Historical story
         + Traditional stories
