@@ -55,9 +55,9 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
    * laymyoChin (Yet & Hang)
    * English language
    * Burmese language
-      + Searched highlight words only supported     * *laymyoChin* *.
+      + Searched highlight words only supported     **laymyoChin**.
       + 
-* Read our History
+* **Read our History**
   * Read the birth of a tribe,
   * Find our History ,culture and customs.
 * **Speak the dialect**
@@ -71,7 +71,7 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
         + Traditional stories
         + Lullaby stories
         + Translated stories 
-   *  Cultural insight videos
+    *  Cultural insight videos
         + watch our culture videos
         + Nature resources videos
         + Music and dancing videos
