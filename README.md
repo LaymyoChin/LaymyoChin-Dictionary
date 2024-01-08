@@ -51,15 +51,18 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
 
 
 ## Included the features
-* The language of the laymyoChin (Yet & Hang)
-  * English Search for words in Burmese language.
-  * Read and study about history and culture.
+* The language supported
+   * laymyoChin (Yet & Hang)
+   * English language
+   * Burmese language
+      + Searched highlight words only supported     laymyoChin.
+* Read our History
+  * study about history and culture.
     + Story, short stories, Studying and reading historical articles that develop traditions.
     - Read the old sayings of laymyoChin region.
 * A friendly place for language learners
   * laymyoChin nature videos
   * The songs are also here to watch and enjoy.
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
