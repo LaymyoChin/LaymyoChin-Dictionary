@@ -9,7 +9,7 @@
 [![GitHub release](https://img.shields.io/github/release/hleihzue/LaymyoChin-Dictionary.svg)](https://github.com/hleihzue/LaymyoChin-Dictionary/releases) [![GitHub release downloads](https://img.shields.io/github/downloads/hleihzue/LaymyoChin-Dictionary/total.svg)](https://GitHub.com/hleihzue/LaymyoChin-Dictionary/releases/) [![Repository Size](https://img.shields.io/github/repo-size/hleihzue/LaymyoChin-Dictionary.svg)](https://github.com/hleihzue/LaymyoChin-Dictionary) [![say thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/hleihzue) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:laymyochin.dictionary@gmail.com) [![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=flat&logo=Google-Pay&logoColor=white)](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095702314809&mibextid=ZbWKwL)
 
 ## laymyoChin Dictionary
-**Welcome to laymyo literature learners!**
+**Welcome to laymyo literature learners!**     
 The LaymyoChin Dictionary app is dedicated to assisting you in enhancing your dialect learning experience. It serves as a comprehensive dictionary, a speaking course, a historical research tool, a repository of captivating storybooks, and a vibrant community hub for dialect language enthusiasts.
 
 
