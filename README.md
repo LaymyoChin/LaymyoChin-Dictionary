@@ -63,7 +63,7 @@ To suggest new features or report any issues with this app, kindly use the **Iss
     * You can learn our laymyo conversations
         + Yet , Hang and Soung speaking
     * Study our old saying
-        +Traditional old saying
+        + Traditional old saying
 *  **Stories and Videos**
     *  You can know our traditional stories
         + Historical story
