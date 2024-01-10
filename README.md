@@ -50,34 +50,39 @@ To suggest new features or report any issues with this app, kindly use the **Iss
 
 
 
-## Included the features
-* **The language supported**
-   * laymyoChin (Yet & Hang)
-   * English language
-   * Burmese language
-      + Searched highlight words only supported     **laymyoChin**.
-* **Read our History**
-  * Read the birth of a tribe,
-  * Find our History ,culture and customs.
-* **Speak the dialect**
-    * You can learn our laymyo conversations
-        + Yet , Hang and Soung speaking
-    * Study our old saying
-        + Traditional old saying
-*  **Stories and Videos**
-    *  You can know our traditional stories
-        + Historical story
-        + Traditional stories
-        + Lullaby stories
-        + Translated stories 
-    *  Cultural insight videos
-        + watch our culture videos
-        + Nature resources videos
-        + Music and dancing videos
-        + Learn our basic with videos
-* **Multi-Language Translation**
-   * Translate between all languages
-        + LaymyoChin language supported (API fixes in progress)
+## Included Features
+
+### Language Support
+* **Supported Languages:**
+   - laymyoChin (Yet & Hang)
+   - English
+   - Burmese (Highlight words only supported in **laymyoChin**)
+
+### Read Our History
+* Explore the birth of our tribe
+* Discover our history, culture, and customs
+
+### Speak the Dialect
+* Learn our laymyo conversations
+   - Yet, Hang, and Soung speaking
+* Study our old sayings
+   - Traditional sayings
+
+### Stories and Videos
+* Know our traditional stories
+   - Historical stories
+   - Traditional tales
+   - Lullabies
+   - Translated stories 
+* Cultural Insight Videos
+   - Watch our culture videos
+   - Explore nature resources
+   - Enjoy music and dancing
+   - Learn basics through videos
+
+### Multi-Language Translation
+* Translate between all languages
+   - LaymyoChin language supported (API fixes in progress)
       
 
 <h3 align="left">Languages and Tools:</h3>
