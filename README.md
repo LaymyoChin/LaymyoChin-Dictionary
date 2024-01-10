@@ -45,7 +45,7 @@ To suggest new features or report any issues with this app, kindly use the **Iss
 | Cultural insight videos    | 50~50%    |    |
 
 > [!NOTE]
-> I've opened a Google form for project participants. Check it out or [click here](https://forms.gle/LPEM9dKWJh24oMxTA) to join."
+> We've opened a Google form for project participants. Check it out or [click here](https://forms.gle/LPEM9dKWJh24oMxTA) to join.
 
 
 
