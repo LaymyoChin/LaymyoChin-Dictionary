@@ -37,12 +37,12 @@ To suggest new features or report any issues with this app, kindly use the **Iss
 
 | A                          | B         | C  |
 | -------------------------- | --------- | -- |
-| Dictionary                 | 60%       |    |
-| History                    | 20%       |    |
-| Storytelling               | 0%        |    |
-| Proverbs                   | 10%       |    |
-| Conversations              | 20%       |    |
-| Cultural insight videos    | 50~50%    |    |
+| **Dictionary**                 | 60%       |    |
+| **History**                    | 20%       |    |
+| **Storytelling**               | 0%        |    |
+| **Proverbs**                   | 10%       |    |
+| **Conversations**              | 20%       |    |
+| **Cultural insight videos**    | ~    |    |
 
 > [!NOTE]
 > We've opened a Google form for project participants. Check it out or [click here](https://forms.gle/LPEM9dKWJh24oMxTA) to join.
