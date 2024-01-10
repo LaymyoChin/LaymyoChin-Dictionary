@@ -51,38 +51,33 @@ To suggest new features or report any issues with this app, kindly use the **Iss
 
 
 ## Included Features
-
-### Language Support
-* **Supported Languages:**
-   - laymyoChin (Yet & Hang)
-   - English
-   - Burmese (Highlight words only supported in **laymyoChin**)
-
-### Read Our History
-* Explore the birth of our tribe
-* Discover our history, culture, and customs
-
-### Speak the Dialect
-* Learn our laymyo conversations
-   - Yet, Hang, and Soung speaking
-* Study our old sayings
-   - Traditional sayings
-
-### Stories and Videos
-* Know our traditional stories
-   - Historical stories
-   - Traditional tales
-   - Lullabies
-   - Translated stories 
-* Cultural Insight Videos
-   - Watch our culture videos
-   - Explore nature resources
-   - Enjoy music and dancing
-   - Learn basics through videos
-
-### Multi-Language Translation
-* Translate between all languages
-   - LaymyoChin language supported (API fixes in progress)
+* **The language supported**
+   * laymyoChin (Yet & Hang)
+   * English language
+   * Burmese language
+      + Search highlight words only available in **laymyoChin**.
+* **Dive into Our History**
+  * Explore the origins of our tribe,,
+  * Uncover the richness of our history, culture, and customs.
+* **Embrace the Dialect**
+    * Immerse yourself in our laymyo conversations,
+        + Yet , Hang and Soung speaking
+    * Discover the wisdom in our old sayings,
+        + Traditional proverbs.
+*  **Stories and Visuals**
+    *  Experience our traditional stories,
+        + Historical narratives
+        + Traditional tales
+        + Soothing lullabies
+        + Captivating translated stories
+    *  Immerse yourself in cultural insight videos,
+        + Witness our cultural practices
+        + Explore nature's wonders
+        + Enjoy music and dancing videos
+        + Grasp the basics dialect through instructive videos
+* **Multi-Language Translation**
+   * Translate between all languages
+        + LaymyoChin language support with ongoing API enhancements.
       
 
 <h3 align="left">Languages and Tools:</h3>
