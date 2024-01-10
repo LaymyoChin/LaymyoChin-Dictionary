@@ -9,15 +9,15 @@
 [![GitHub release](https://img.shields.io/github/release/hleihzue/LaymyoChin-Dictionary.svg)](https://github.com/hleihzue/LaymyoChin-Dictionary/releases) [![GitHub release downloads](https://img.shields.io/github/downloads/hleihzue/LaymyoChin-Dictionary/total.svg)](https://GitHub.com/hleihzue/LaymyoChin-Dictionary/releases/) [![Repository Size](https://img.shields.io/github/repo-size/hleihzue/LaymyoChin-Dictionary.svg)](https://github.com/hleihzue/LaymyoChin-Dictionary) [![say thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/hleihzue) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=Gmail&logoColor=white)](mailto:laymyochin.dictionary@gmail.com) [![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=flat&logo=Google-Pay&logoColor=white)](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095702314809&mibextid=ZbWKwL)
 
 ## laymyoChin Dictionary
-**Welcome to laymyo literature learners!** laymyoChin Dictionary means the traditional, traditional  literature  culture  It is a test app produced for the purpose of preserving traditions.
+**Welcome to laymyo literature learners!** The LaymyoChin Dictionary app is dedicated to assisting you in enhancing your dialect learning experience. It serves as a comprehensive dictionary, a speaking course, a historical research tool, a repository of captivating storybooks, and a vibrant community hub for dialect language enthusiasts.
 
 
 ## Be a part of the family
- In order to improve laymyoChin Dictionary, literature,  Those who are interested in traditional traditions are invited to participate.  Your name and pictures will be listed under "Contributors" in the application.
+ In order to improve laymyoChin Dictionary, literature, those who are interested in traditional traditions are invited to participate.  Your name and pictures will be listed under "Contributors" in the application.
 
-[Click here](https://forms.gle/LPEM9dKWJh24oMxTA) to select the area you want to participate in.  We will be in touch.  If not, [take a look at this](https://fb.watch/ppV3pYooP2/?mibextid=Nif5oz).
+[Click here](https://forms.gle/LPEM9dKWJh24oMxTA) to select the area you want to participate in.  We will be in touch.  If you don't how, [take a look at this](https://fb.watch/ppV3pYooP2/?mibextid=Nif5oz).
 
-Recommend this app, Requested features or parts;  Please refer to Issue to report bugs while using  If you don't do it, take a look here.
+To suggest new features or report any issues with this app, kindly use the ""Issues"" page. Your feedback is valuable to us! If you need guidance, check out the instructions here."
 
 > [!TIP]
 > We have opened social networks for communication including teaching literature.
@@ -30,9 +30,9 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
 
 
 ## When we started and how many we have finished
- We have planned more for the history at the end of 2019 and informed the public that it will be released on September 2nd, 2021.  It was first released on Uptodown on February 14, 2022, and was launched on the Play Store on April 4.
+ We quietly started our project in late 2019, announcing it publicly on September 2, 2021, via our Facebook page. The app landed on Uptodown on February 14, 2022, and on the Play store on April 4."
 
- If there are more people who want to participate, we will finish faster.  You join us.  The following outlines the completed site components.
+ If more people join us, we can finish faster. You're welcome to join our project. Below are the outline components of the completed site.
 
 | A                          | B         | C  |
 | -------------------------- | --------- | -- |
@@ -44,7 +44,7 @@ Recommend this app, Requested features or parts;  Please refer to Issue to repor
 | Cultural insight videos    | 50~50%    |    |
 
 > [!NOTE]
-> If you want to join as the contributor, we will make better and faster.
+> I've opened a Google form for project participants. Check it out or [click here](https://forms.gle/LPEM9dKWJh24oMxTA) to join."
 
 
 
