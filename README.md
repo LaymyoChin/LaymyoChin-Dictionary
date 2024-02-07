@@ -18,7 +18,7 @@ The LaymyoChin Dictionary app is dedicated to assisting you in enhancing your di
 
 [Click here](https://forms.gle/LPEM9dKWJh24oMxTA) to select the area you want to be a part of Family.  We will be in touch.  If you don't how, [take a look at this](https://www.facebook.com/share/p/GBXqNHwGJUNPXmVv/?mibextid=Nif5oz).
 
-To suggest new features or report any issues with this app, kindly use the **Issues** page. Your feedback is valuable to us! If you need guidance, check out the instructions here."
+To suggest new features or report any issues with this app, kindly use the [**Issues**](https://github.com/hleihzue/LaymyoChin-Dictionary/issues/new) page. Your feedback is valuable to us! If you need guidance, [check out the instructions here](https://www.facebook.com/share/p/SCdwJwCA6xjpG5MC/?mibextid=Nif5oz).
 
 > [!TIP]
 > We have opened social networks for communication including teaching literature.
