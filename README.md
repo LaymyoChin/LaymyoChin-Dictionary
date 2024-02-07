@@ -16,7 +16,7 @@ The LaymyoChin Dictionary app is dedicated to assisting you in enhancing your di
 ## Be a part of the family
  In order to improve laymyoChin Dictionary, literature, those who are interested in traditional traditions are invited to participate.  Your name and pictures will be listed under "Contributors" in the application.
 
-[Click here](https://forms.gle/LPEM9dKWJh24oMxTA) to select the area you want to participate in.  We will be in touch.  If you don't how, [take a look at this](https://fb.watch/ppV3pYooP2/?mibextid=Nif5oz).
+[Click here](https://forms.gle/LPEM9dKWJh24oMxTA) to select the area you want to be a part of Family.  We will be in touch.  If you don't how, [take a look at this](https://www.facebook.com/share/p/GBXqNHwGJUNPXmVv/?mibextid=Nif5oz).
 
 To suggest new features or report any issues with this app, kindly use the **Issues** page. Your feedback is valuable to us! If you need guidance, check out the instructions here."
 
