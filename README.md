@@ -16,7 +16,7 @@ The LaymyoChin Dictionary app is dedicated to assisting you in enhancing your di
 ## Be a part of the family
  In order to improve laymyoChin Dictionary, literature, those who are interested in traditional traditions are invited to participate.  Your name and pictures will be listed under "Contributors" in the application.
 
-[Click here](https://forms.gle/LPEM9dKWJh24oMxTA) to select the area you want to be a part of Family.  We will be in touch.  If you don't how, [take a look at this](https://www.facebook.com/share/p/GBXqNHwGJUNPXmVv/?mibextid=Nif5oz).
+[Click here](https://forms.gle/LPEM9dKWJh24oMxTA) to select the area you want to be a part of the Family.  We will be in touch.  If you don't how, [take a look at this](https://www.facebook.com/share/p/GBXqNHwGJUNPXmVv/?mibextid=Nif5oz).
 
 To suggest new features or report any issues with this app, kindly use the [**Issues**](https://github.com/hleihzue/LaymyoChin-Dictionary/issues/new) page. Your feedback is valuable to us! If you need guidance, [check out the instructions here](https://www.facebook.com/share/p/SCdwJwCA6xjpG5MC/?mibextid=Nif5oz).
 
@@ -24,14 +24,14 @@ To suggest new features or report any issues with this app, kindly use the [**Is
 > We have opened social networks for communication including teaching literature.
  * Follow us on [Facebook](https://www.facebook.com/profile.php?id=100095702314809&mibextid=ZbWKwL).
  * Visit our [Website](www.laymyochin.wordpress.com/).
- * Contact with [Email]( laymyochin.dictionary@gmail.com).
+ * Contact via [Email](mailto:laymyochin.dictionary@gmail.com)
  * Download the app from [Play Store](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary).
- * Download all from [Uptodown Store](https://yet-mm-dictionary.en.uptodown.com/android/download).
+ * Download from [Uptodown Store](https://yet-mm-dictionary.en.uptodown.com/android/download).
 
 
 
 ## When we started and how many we have finished
- We quietly started our project in late 2019, announcing it publicly on September 2, 2021, via our Facebook page. The app landed on Uptodown on February 14, 2022, and on the Play store on April 4."
+ We quietly started our project in late 2019, announcing it publicly on September 2, 2021 via our Facebook page. The app landed on Uptodown Store on February 14, 2022 and on the Play store on April 4.
 
  If more people join us, we can finish faster. You're welcome to join our project. Below are the outline components of the completed site.
 
@@ -52,31 +52,31 @@ To suggest new features or report any issues with this app, kindly use the [**Is
 
 ## Included Features
 * **The language supported**
-   * laymyoChin (Yet & Hang)
+   * laymyoChin (Yet & Haang)
    * English language
    * Burmese language
       + Search highlight words only available in **laymyoChin**.
 * **Dive into Our History**
-  * Explore the origins of our tribe,,
+  * Explore the origins of our tribe,
   * Uncover the richness of our history, culture, and customs.
 * **Embrace the Dialect**
     * Immerse yourself in our laymyo conversations,
-        + Yet , Hang and Soung speaking
+        + Yet , Haang and Soung speaking.
     * Discover the wisdom in our old sayings,
         + Traditional proverbs.
 *  **Stories and Visuals**
     *  Experience our traditional stories,
-        + Historical narratives
-        + Traditional tales
-        + Soothing lullabies
-        + Captivating translated stories
+        + Historical narratives,
+        + Traditional tales,
+        + Soothing lullabies,
+        + Captivating translated stories,
     *  Immerse yourself in cultural insight videos,
-        + Witness our cultural practices
-        + Explore nature's wonders
-        + Enjoy music and dancing videos
-        + Grasp the basics dialect through instructive videos
+        + Witness our cultural practices,
+        + Explore nature's wonders,
+        + Enjoy music and dancing videos,
+        + Grasp the basics dialect through instructive videos.
 * **Multi-Language Translation**
-   * Translate between all languages
+   * Translate between all languages,
         + LaymyoChin language support with ongoing API enhancements.
       
 
