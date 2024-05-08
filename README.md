@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hleihzue/LaymyoChin-Dictionary/assets/155907427/48fba0ba-1db7-4de3-bf59-668d421a50f3" alt="laymyoChin Dictionary" width="100">
+  <img src="https://github.com/hleihzue/LaymyoChin-Dictionary/assets/155907427/48fba0ba-1db7-4de3-bf59-668d421a50f3" alt="laymyoChin Dictionary" width="90">
 
 </p>
 <div align="center">
@@ -11,7 +11,6 @@
 ## laymyoChin Dictionary
 **Welcome to laymyo literature learners!**     
 The LaymyoChin Dictionary app is dedicated to assisting you in enhancing your dialect learning experience. It serves as a comprehensive dictionary, a speaking course, a historical research tool, a repository of captivating storybooks, and a vibrant community hub for dialect language enthusiasts.
-
 
 ## Be a part of the family
  In order to improve laymyoChin Dictionary, literature, those who are interested in traditional traditions are invited to participate.  Your name and pictures will be listed under "Contributors" in the application.
@@ -28,7 +27,6 @@ To suggest new features or report any issues with this app, kindly use the [**Is
  * Download the app from [Play Store](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary).
  * Download from [Uptodown Store](https://yet-mm-dictionary.en.uptodown.com/android/download).
 
-
 ## When we started and how many we have finished
  We quietly started our project in late 2019, announcing it publicly on September 2, 2021 via our Facebook page. The app landed on Uptodown Store on February 14, 2022 and on the Play store on April 4.
 
@@ -36,25 +34,22 @@ To suggest new features or report any issues with this app, kindly use the [**Is
 
 | A                          | B         | C  |
 | -------------------------- | --------- | -- |
-| **Dictionary**                 | 60%       |    |
+| **Dictionary**                 | 50%       |    |
 | **History**                    | 20%       |    |
 | **Storytelling**               | 0%        |    |
 | **Proverbs**                   | 10%       |    |
-| **Conversations**              | 20%       |    |
+| **Conversations**              | 15%       |    |
 | **Cultural insight videos**    | ~    |    |
 
 > [!NOTE]
 > We've opened a Google form for project participants. Check it out or [click here](https://forms.gle/LPEM9dKWJh24oMxTA) to join.
 
-
-
-
-## Included Features
+## Included Features the app
 * **The language supported**
-   * laymyoChin (Yet & Haang)
+   * laymyoChin (*Yet & Haang*) dialect
    * English language
    * Burmese language
-      + Search highlight words only available in **laymyoChin**.
+      + Search a yellow highlight words only available in **laymyoChin**.
 * **Dive into Our History**
   * Explore the origins of our tribe,
   * Uncover the richness of our history, culture, and customs.
@@ -80,5 +75,5 @@ To suggest new features or report any issues with this app, kindly use the [**Is
       
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> </p>
 
