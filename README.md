@@ -40,7 +40,7 @@ To suggest new features or report any issues with this app, kindly use the [**Is
 | **Storytelling**               | 0%        |    |
 | **Proverbs**                   | 10%       |    |
 | **Conversations**              | 15%       |    |
-| **Cultural insight videos**    | ~    |    |
+| **Cultural insight videos**    | 5    |    |
 
 > [!NOTE]
 > We've opened a Google form for project participants. Check it out or [click here](https://forms.gle/LPEM9dKWJh24oMxTA) to join.
