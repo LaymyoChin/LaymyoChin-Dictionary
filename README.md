@@ -29,7 +29,7 @@ To suggest new features or report any issues with this app, kindly use the [**Is
 >[!NOTE]
 > We are tring to use a public server, now everyone can view it or contribute into [**LaymyoChin Dictionary**](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary)
 ## When we started and how many we have finished
- We quietly started our project in late 2019, announcing it publicly on September 2, 2021 via our Facebook page. The app landed on Uptodown Store on February 14, 2022 and on the Play store on April 4.
+ We quietly started our project in late 2019, announcing it publicly on September 2, 2021 via our Facebook page. The app landed on Uptodown Store on February 14, 2022 and on the Play store on April 4. After thinking a future for this app, we are trying to open the **Sever** as a public at 11-May-2024.
 
  If more people join us, we can finish faster. You're welcome to join our project. Below are the outline components of the completed site.
 
