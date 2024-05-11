@@ -24,8 +24,8 @@ To suggest new features or report any issues with this app, kindly use the [**Is
  * Follow us on [Facebook](https://www.facebook.com/profile.php?id=100095702314809&mibextid=ZbWKwL).
  * Visit our [Website](www.laymyochin.wordpress.com/).
  * Contact via [Email](mailto:laymyochin.dictionary@gmail.com)
- * Download the app from [Play Store](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary).
- * Download from [Uptodown Store](https://yet-mm-dictionary.en.uptodown.com/android/download).
+ * Download the app from [Play Store](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary) and [Uptodown Store](https://yet-mm-dictionary.en.uptodown.com/android/download).
+
 >[!NOTE]
 > We are tring to use a public server, now everyone can view it or contribute into [**LaymyoChin Dictionary**](https://play.google.com/store/apps/details?id=chin.bk.hleihzue.yet.dictionary)
 ## When we started and how many we have finished
