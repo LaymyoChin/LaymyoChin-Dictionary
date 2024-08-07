@@ -10,7 +10,7 @@
 
 ## laymyoChin Dictionary
 **Welcome to laymyo literature learners!**     
-The LaymyoChin Dictionary app is dedicated to assisting you in enhancing your dialect learning experience. It serves as a comprehensive dictionary, a speaking course, a historical research tool, a repository of captivating storybooks, and a vibrant community hub for dialect language enthusiasts.
+The app is dedicated to assisting you in enhancing your dialect learning experience. It serves as a comprehensive dictionary, a speaking course, a historical research tool, a repository of captivating storybooks, and a vibrant community hub for dialect language enthusiasts.
 
 ## Be a part of the family
  In order to improve laymyoChin Dictionary, literature, those who are interested in traditional traditions are invited to participate.  Your name and pictures will be listed under "Contributors" in the application.
