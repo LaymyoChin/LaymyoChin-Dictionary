@@ -33,7 +33,7 @@ To suggest new features or report any issues with this app, kindly use the [**Is
 
  If more people join us, we can finish faster. You're welcome to join our project. Below are the outline components of the completed site.
 
-| A                          | B         | C  |
+| Sections                        | To do        | Dates  |
 | -------------------------- | --------- | -- |
 | **Dictionary**                 | 50%       |    |
 | **History**                    | 20%       |    |
